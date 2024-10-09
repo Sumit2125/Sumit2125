@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sumit Kumar 
-- 👀 I’m interested Devops and Data Structure and Algorithms
+- 👋 Hi, I’m Sumit Kumar Mathpati
+- 👀 I’m interested in Android Development and Data Structure and Algorithms
 - 🌱 I’m currently learning App Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on android projects 
 - 📫 How to reach me ...
 
 <!---
